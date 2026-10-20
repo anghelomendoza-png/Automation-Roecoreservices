@@ -1,0 +1,8 @@
+
+{
+  "LOGIN_001": {
+    "usuario": "RWBLAB",
+    "password": "W3bS3rv1c3!2021",
+    "expectedStatus": 200
+  }
+}

@@ -1,0 +1,5 @@
+
+{
+  "auth_user": "#(usuario)",
+  "auth_password": "#(password)"
+}
